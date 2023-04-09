@@ -1,0 +1,39 @@
+body
+{background-color: rgb(246, 224, 191);}
+hr
+{border-color: rgb(145, 75, 75);border-width:4px;
+width:50% ;border-style:dashed none none;}
+table{border-color:rgb(122, 95, 62);}
+h1{  color: darkcyan; }  
+h5{color: cadetblue;} 
+h2{color: darkcyan;}
+
+.asthtc
+{
+  width: 49.7%;
+}    
+.crsh
+{ 
+  width: 100%;;
+}
+.places
+{
+  width: 33%;
+}
+#c1
+{
+   color: darkslategray;
+}
+#l1
+{
+  border-color:darkolivegreen;border-width:4px;
+  width:50% ;border-style:dotted none none;
+}
+#p1
+{   
+  width: 60%;
+}
+#p2
+{
+  width: 100%;
+}
